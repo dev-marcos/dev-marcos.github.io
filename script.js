@@ -44,6 +44,7 @@ fetch('resume-data.json')
 
 // Add event listener to download button
 const downloadButton = document.getElementById('download-btn');
+const displayViewOnline = document.getElementById('view-online');
 downloadButton.addEventListener('click', () => {
   /*const pdf = new jsPDF();
   pdf.html(document.body, {
@@ -52,6 +53,8 @@ downloadButton.addEventListener('click', () => {
     }
   }); */
   downloadButton.style.visibility  = "hidden";
+  displayViewOnline.style.visibility  = "visible";
   window.print();
   downloadButton.style.visibility  = "visible";
+  displayViewOnline.style.visibility  = "hidden";
 });
