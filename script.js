@@ -53,8 +53,8 @@ downloadButton.addEventListener('click', () => {
     }
   }); */
   downloadButton.style.visibility  = "hidden";
-  displayViewOnline.style.visibility  = "visible";
+  displayViewOnline.style.display  = "inline";
   window.print();
   downloadButton.style.visibility  = "visible";
-  displayViewOnline.style.visibility  = "hidden";
+  displayViewOnline.style.display  = "none";
 });
