@@ -1,0 +1,78 @@
+{
+    "formacao": [
+      {
+        "instituicao": "Universidade Tecnológica Federal do Paraná",
+        "curso": "Bacharelado em Engenharia de Computação",
+        "periodo": "2019 - 2023"
+      },
+      {
+        "instituicao": "MBA USP/Esalq",
+        "curso": "Pós-graduação Lato Sensu - MBA, Data Science e Analytics",
+        "periodo": "maio de 2022 - novembro de 2023"
+      },
+      {
+        "instituicao": "Faculdade de Rolim de Moura - FAROL",
+        "curso": "Pós Graduação em Metodologia e Didática do Ensino",
+        "periodo": "2017 - 2018"
+      },
+      {
+        "instituicao": "Faculdade de Rolim de Moura - FAROL",
+        "curso": "Bacharel em Sistema de Informação",
+        "periodo": "2015 - 2018"
+      },
+      {
+        "instituicao": "Alura",
+        "curso": "Formação em Data Science",
+        "periodo": "(janeiro de 2022 - outubro de 2022"
+      }
+    ],
+    "experiencia": [
+      {
+        "cargo": "Bolsista de Iniciação Científica (TT-III)",
+        "empresa": "FAPESP",
+        "periodo": "junho de 2022 - Present",
+        "descricao": "Desenvolvimento de rede de monitoramento da qualidade ambiental em cidades inteligentes - EnvCity."
+      },
+      {
+        "cargo": "Bolsista de Iniciação Científica (TT-I)",
+        "empresa": "FAPESP",
+        "periodo": "maio de 2021 - abril de 2022",
+        "descricao": "Estudo e desenvolvimento de integração dos componentes da rede de qualidade da água."
+      },
+      {
+        "cargo": "Bolsista de Iniciação Científica (PIBIC)",
+        "empresa": "Fundacao Araucaria",
+        "periodo": "julho de 2019 - junho de 2020 ",
+        "descricao": "O objetivo do projeto é desenvolver um sistema baseado na tecnologia LoRaWAN para monitoramento de veículos."
+      },
+      {
+        "cargo": "Junior Tester",
+        "empresa": "HSF Software",
+        "periodo": "agosto de 2016 - fevereiro de 2019",
+        "descricao": "Realizava testes funcionais, regressivos, de segurança e de usabilidade. Produzia roteiros de testes e supervisionava os 'testers'."
+      },
+      {
+        "cargo": "Suporte técnico",
+        "empresa": "HSF Software",
+        "periodo": "maio de 2016 - agosto de 2016",
+        "descricao": "Instalação, configuração e manutenção de software. Suporte aos clientes."
+      },
+      {
+        "cargo": "SUPORTE AO USUÁRIO EM INFORMÁTICA (Estagiário)",
+        "empresa": "Company Name",
+        "periodo": "setembro de 2015 - maio de 2016",
+        "descricao": "Auxiliar na manutenção de sistemas, Auxiliar na manutenção do banco de dados em sistema, Auxiliar nas rotinas de manutenção de servidor."
+      }
+    ],
+    "habilidades": [
+      {
+        "habilidade": "Skill Name",
+        "nivel": "Skill Level (e.g. beginner, intermediate, expert)"
+      },
+      {
+        "habilidade": "Skill Name",
+        "nivel": "Skill Level (e.g. beginner, intermediate, expert)"
+      }
+    ]
+  }
+    
