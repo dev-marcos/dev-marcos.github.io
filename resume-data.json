@@ -1,24 +1,30 @@
 {
+  "nome": "Marcos Rocha",
+  "titulo": "Developer & Data Scientist",
+  "bio": "Meu nome é Marcos Rocha, formado em Sistemas de Informação, em processo de conclusão da graduação em Engenharia de Computação e da pós-graduação em Data Science. Tenho habilidades com programação e experiência como tester de software. Busco uma vaga que me permita aplicar minhas habilidades em programação e análise de dados.",
+  "tel":"+55 69 98405-9615",
+  "email":"devmarcos@outlook.com",
+  "github":"github.com/dev-marcos",
+  "linkedin":"linkedin.com/in/dev-marcos",
+  "endereco": "Toledo, Paraná - Brasil",
     "formacao": [
+      {
+        "instituicao": "MBA USP/Esalq",
+        "curso": "MBA em Data Science e Analytics",
+        "periodo": "2022-2023",
+        "descricao": "Especialização em Data Science e Análise de Dados, curso de PósGraduação Lato Sensu."
+      },
       {
         "instituicao": "Universidade Tecnológica Federal do Paraná",
         "curso": "Bacharelado em Engenharia de Computação",
-        "periodo": "2019 - 2023"
-      },
-      {
-        "instituicao": "MBA USP/Esalq",
-        "curso": "Pós-graduação Lato Sensu - MBA, Data Science e Analytics",
-        "periodo": "maio de 2022 - novembro de 2023"
-      },
-      {
-        "instituicao": "Faculdade de Rolim de Moura - FAROL",
-        "curso": "Pós Graduação em Metodologia e Didática do Ensino",
-        "periodo": "2017 - 2018"
+        "periodo": "2019-2023",
+        "descricao": "Curso de graduação em nível bacharelado com foco em projeto, construção e gerenciamento sistemas computacionais complexos, combinando conhecimentos de eletrônica, computação e redes."
       },
       {
         "instituicao": "Faculdade de Rolim de Moura - FAROL",
         "curso": "Bacharel em Sistema de Informação",
-        "periodo": "2015 - 2018"
+        "periodo": "2015-2018",
+        "descricao": "Desenvolvimento, implementação e gerenciamento de sistemas em organizações, com ênfase em programação, banco de dados, redes e gestão."
       },
       {
         "instituicao": "Alura",
@@ -28,46 +34,74 @@
     ],
     "experiencia": [
       {
-        "cargo": "Bolsista de Iniciação Científica (TT-III)",
-        "empresa": "FAPESP",
-        "periodo": "junho de 2022 - Present",
-        "descricao": "Desenvolvimento de rede de monitoramento da qualidade ambiental em cidades inteligentes - EnvCity."
+        "cargo": "Estágio Software Engineer",
+        "empresa": "WEG",
+        "periodo": "2023-Present",
+        "descricao": "Desenvolvimento de Sistemas de Manufatura: Auxiliando no desenvolvimento de sistemas, atendimento de chamados e documentação das soluções desenvolvidas. Ferramentas utilizadas: React, C#, GitLab, Apache Cassandra"
       },
       {
-        "cargo": "Bolsista de Iniciação Científica (TT-I)",
-        "empresa": "FAPESP",
-        "periodo": "maio de 2021 - abril de 2022",
-        "descricao": "Estudo e desenvolvimento de integração dos componentes da rede de qualidade da água."
+        "cargo": "Pesquisador de Iniciação Científica",
+        "empresa": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+        "periodo": "2019-2023",
+        "descricao": "2021-2023: FAPESP: Desenvolvimento de rede de monitoramento da qualidade ambiental em cidades inteligentes. 2019-2020: Fundação Araucária – Desenvolvimento de Sistema de monitoramento de veículos baseado na tecnologia LoraWAN."
       },
       {
-        "cargo": "Bolsista de Iniciação Científica (PIBIC)",
-        "empresa": "Fundacao Araucaria",
-        "periodo": "julho de 2019 - junho de 2020 ",
-        "descricao": "O objetivo do projeto é desenvolver um sistema baseado na tecnologia LoRaWAN para monitoramento de veículos."
-      },
-      {
-        "cargo": "Junior Tester",
+        "cargo": "Analista de desenvolvimento de sistemas",
         "empresa": "HSF Software",
-        "periodo": "agosto de 2016 - fevereiro de 2019",
-        "descricao": "Realizava testes funcionais, regressivos, de segurança e de usabilidade. Produzia roteiros de testes e supervisionava os 'testers'."
+        "periodo": "2016-2019",
+        "descricao": "Identificação de bugs e vulnerabilidades por meio de testes abrangentes. Experiência em migração de bases de dados e desenvolvimento de sistemas internos."
       },
       {
-        "cargo": "Suporte técnico",
-        "empresa": "HSF Software",
-        "periodo": "maio de 2016 - agosto de 2016",
-        "descricao": "Instalação, configuração e manutenção de software. Suporte aos clientes."
-      },
-      {
-        "cargo": "SUPORTE AO USUÁRIO EM INFORMÁTICA (Estagiário)",
-        "empresa": "Company Name",
-        "periodo": "setembro de 2015 - maio de 2016",
-        "descricao": "Auxiliar na manutenção de sistemas, Auxiliar na manutenção do banco de dados em sistema, Auxiliar nas rotinas de manutenção de servidor."
+        "cargo": "Estagiário",
+        "empresa": "SEMEC",
+        "periodo": "2015-2016",
+        "descricao": "Auxiliar na manutenção de sistemas, banco de dados em sistema, manutenção de servidor e suporte ao usuário."
       }
     ],
     "habilidades": [
       {
-        "habilidade": "Skill Name",
-        "nivel": "Skill Level (e.g. beginner, intermediate, expert)"
+        "habilidade": "Python",
+        "nivel": "expert"
+      },
+      {
+        "habilidade": " C++",
+        "nivel": "expert"
+      },
+      {
+        "habilidade": "JavaScritp",
+        "nivel": "expert"
+      },
+      {
+        "habilidade": "C#",
+        "nivel": "beginner"
+      },
+      {
+        "habilidade": "SQL",
+        "nivel": "expert"
+      },
+      {
+        "habilidade": "R",
+        "nivel": "beginner"
+      },
+      {
+        "habilidade": "Java",
+        "nivel": "intermediate"
+      },
+      {
+        "habilidade": "VHDL",
+        "nivel": "intermediate"
+      },
+      {
+        "habilidade": "Machine Learning",
+        "nivel": "intermediate"
+      },
+      {
+        "habilidade": "Power BI e Looker Studio",
+        "nivel": "intermediate"
+      },
+      {
+        "habilidade": "Google BigQuery",
+        "nivel": "intermediate"
       },
       {
         "habilidade": "Skill Name",
